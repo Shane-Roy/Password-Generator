@@ -9,10 +9,9 @@ Other uses are:
 
 2. Password first length multiplied by second length with variations of encryption
 
-Here is the output once ran:
+Here is the output when ran:
 
 """
-
 Enter a password length: 10
 Random string of length 10 is:
 q}?qgR-I/=
