@@ -11,8 +11,7 @@ Other uses are:
 
 Here is the output when ran:
 
-"""
-Enter a password length: 10
+"""Enter a password length: 10
 Random string of length 10 is:
 q}?qgR-I/=
 
