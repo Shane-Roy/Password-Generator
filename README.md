@@ -5,9 +5,9 @@ Use "python3 pass-gen.py" to start program, then enter a password length for out
 
 Other uses are: 
 
-1. Password double the first length
+1. Password with double the first length
 
-2. Password first length multiplied by second length with variations of encryption
+2. First password length multiplied by second length with variations of encryption
 
 Here is the output when ran:
 
