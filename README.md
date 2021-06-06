@@ -4,8 +4,8 @@ Python3 based password-generator
 Use "python3 pass-gen.py" to start program, then enter a password length for output
 
 Other uses are: 
-1.password double the first length
-2.password first length multiplied by second length with variations of encryption
+password double the first length
+password first length multiplied by second length with variations of encryption
 
 Here is the output once ran:
 
