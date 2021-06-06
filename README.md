@@ -3,6 +3,8 @@ Python3 based password-generator
 
 Use "python3 pass-gen.py" to start program, then enter a password length for output
 
+(Includes the use of upper, lower, special, and numbers. Feel free to change this as you wish.)
+
 Other uses are: 
 
 1. Password with double the first length
