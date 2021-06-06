@@ -12,10 +12,12 @@ Other uses are:
 Here is the output when ran:
 
 """Enter a password length: 10
+
 Random string of length 10 is:
 q}?qgR-I/=
 
 Enter a second password length (to add to the first): 10
+
 Random string of length 20 is:
 L)y`a=1t8*q}?qgR-I/=
 
